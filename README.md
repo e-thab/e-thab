@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Athen-H (He/Him)
+- 👀 I’m interested in computer
+- 🌱 I’m currently learning computer
+- 💞️ I’m looking to collaborate on computer
+- 📫 How to reach me ... computer 😏
