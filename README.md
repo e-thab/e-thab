@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Athen-H (He/Him)
+- 👋 Hi, I’m Ethan (He/Him)
 - 👀 I’m interested in computer
 - 🌱 I’m currently learning computer
 - 💞️ I’m looking to collaborate on computer
