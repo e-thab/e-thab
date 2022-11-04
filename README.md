@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ethan (He/Him)
-- 👀 I’m interested in computer
-- 🌱 I’m currently learning computer
-- 💞️ I’m looking to collaborate on computer
-- 📫 How to reach me ... computer 😏
+- 👀 I’m interested in computer science
+- 🌱 I’m currently learning computer science
+- 💞️ I’m looking to collaborate on... computer science 😏
+- 📫 How to reach me: neh9483@uncw.edu or a zany pull request
