@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Ethan (He/Him)
-- 🏫 IComputer Science major at UNCW
+- 🏫 Computer Science major at UNCW
 - 📫 Email me at neh9483@uncw.edu
